@@ -1,2 +1,2 @@
 # Movie-Renting-System-Cplusplus
-This program is developed in C++ which provides the functionality of renting movies.
+#This code is developed by M.Nadir -This is an open source code for learning purpose. -This program is developed in C++ which provides the functionality of renting movies. -For further help or query regarding any sort of problem can contact me on contact given below. Contact info: Email: mohammadnadir189@gmail.com LinkedIn: www.linkedin.com/in/mohnadir Facebook: www.facebook.com/mnadirofficial Instagram: www.instagram.com/nadiir._
